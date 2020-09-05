@@ -1,0 +1,39 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+h1
+{
+    background-color: #00CC99;
+    text-align: center;
+    font-size: 38px;
+    padding: 20px;
+    font-weight: bold;
+    margin-left: 35%;
+    margin-right: 35%;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+}
+marquee
+{
+    background-color: #00FFFF;
+    font-size: 20px; 
+    cursor: pointer;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+fieldset
+{
+    width: 55%;
+    margin: auto;
+    text-align: left;
+    border: 1px solid white ;
+    font-size: 20px;
+    font-family: lato,sans-serif;
+    padding-left: 20px;
+    padding: 30px;
+}
